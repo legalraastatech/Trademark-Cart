@@ -11171,7 +11171,8 @@ ul.list-icon li::before {
   width: 20px;
   height: 20px;
   /* background: url(/img/check-border.png) 0 no-repeat; */
-  background-image: url("/img/check-border.png");
+  /* background-image: url("/img/check-border.png"); */
+  background-color: purple;
   background-repeat: no-repeat;
   left: 0;
   background-size: cover;
