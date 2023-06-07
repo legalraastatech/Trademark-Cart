@@ -11170,7 +11170,8 @@ ul.list-icon li::before {
   content: "";
   width: 20px;
   height: 20px;
-  background-image: url(/img/check-border.png) 0 no-repeat;
+  background-image: url('/img/check-border.png') !important;
+  background-repeat: no-repeat;
   left: 0;
   background-size: cover;
   top: 7px;
