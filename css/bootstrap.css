@@ -10073,7 +10073,8 @@ background:#fbb22f;
   color: #cfdce6;
     /* background: #0b1e59 !important; */
     background-color: white !important;
-    background-image: url('/Trademark-Cart/img/wave-background.png') !important;
+    background-image: url('../img/wave-background.png') !important;
+    /* background-image: url('/img/wave-background.png') !important; */
     min-height: 490px;
     padding-top: 75px;
     }
@@ -11170,7 +11171,8 @@ ul.list-icon li::before {
   content: "";
   width: 20px;
   height: 20px;
-  background: url("/Trademark-Cart/img/check-border.png") 0 no-repeat ;
+  background: url("../img/check-border.png") 0 no-repeat ;
+  /* background: url("/img/check-border.png") 0 no-repeat ; */
   left: 0;
   background-size: cover;
   top: 7px;
