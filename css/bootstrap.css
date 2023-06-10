@@ -11226,3 +11226,17 @@ ul.list-icon li {
   height: 20rem;
 }
 /* Contact us Style End */
+
+/* About Us Page Style Start */
+.prg_style {
+  text-align: justify;
+}
+.points_style {
+  box-shadow: 3px 3px 3px 3px gray;
+  padding: 1rem;
+  /* border-left: 5px solid #091e3e; */
+}
+.icon_box_one {
+  width:15rem;
+}
+/* About Us Page Style End */
